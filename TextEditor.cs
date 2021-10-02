@@ -25,7 +25,8 @@ namespace Notepad
         {
             InitializeComponent();
             FileName = " ";
-            
+            openFileDialog.Filter = "Text files(*.txt)|*.txt|All files(*.*)|*.*";
+            saveFileDialog.Filter = "Text files(*.txt)|*.txt|All files(*.*)|*.*";
         }
 
         private void openMenuItem_Click(object sender, EventArgs e)

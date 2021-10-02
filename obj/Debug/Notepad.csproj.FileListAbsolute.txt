@@ -1,0 +1,9 @@
+D:\VisualStudio\Notepad\bin\Debug\Notepad.exe.config
+D:\VisualStudio\Notepad\bin\Debug\Notepad.exe
+D:\VisualStudio\Notepad\bin\Debug\Notepad.pdb
+D:\VisualStudio\Notepad\obj\Debug\Notepad.TextEditorForm.resources
+D:\VisualStudio\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\VisualStudio\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\VisualStudio\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Notepad\obj\Debug\Notepad.exe
+D:\VisualStudio\Notepad\obj\Debug\Notepad.pdb

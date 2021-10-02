@@ -1,0 +1,10 @@
+D:\VisualStudio\Notepad\bin\Release\Notepad.exe.config
+D:\VisualStudio\Notepad\bin\Release\Notepad.exe
+D:\VisualStudio\Notepad\bin\Release\Notepad.pdb
+D:\VisualStudio\Notepad\obj\Release\Notepad.csproj.AssemblyReference.cache
+D:\VisualStudio\Notepad\obj\Release\Notepad.TextEditorForm.resources
+D:\VisualStudio\Notepad\obj\Release\Notepad.Properties.Resources.resources
+D:\VisualStudio\Notepad\obj\Release\Notepad.csproj.GenerateResource.cache
+D:\VisualStudio\Notepad\obj\Release\Notepad.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Notepad\obj\Release\Notepad.exe
+D:\VisualStudio\Notepad\obj\Release\Notepad.pdb
