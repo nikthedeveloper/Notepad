@@ -52,8 +52,16 @@ namespace Notepad
             else
             {
                 saveFileDialog.ShowDialog();
-                File.WriteAllText(saveFileDialog.FileName + ".txt", textBox.Text);
-                this.Text = saveFileDialog.FileName;
+                if (!saveFileDialog.FileName.Contains(".txt"))
+                {
+                    File.WriteAllText(saveFileDialog.FileName + ".txt", textBox.Text);
+                    this.Text = saveFileDialog.FileName;
+                }
+                else
+                {
+                    File.WriteAllText(saveFileDialog.FileName, textBox.Text);
+                    this.Text = saveFileDialog.FileName;
+                }
             }
         }
 
